@@ -42,6 +42,10 @@ _Vous pouvez aussi, simplement chercher mon bot ***"..."*** sur télégram, et s
 
 _Pré-requis: se placer depuis le terminal dans le dossier où l'on exécute le script:_
 
+Avant toute chose on clone le répository git:
+
+> <span style="color:  #46ee1c  ">git clone https://github.com/LGD-P/Telegram_Bot_projet.git</span>
+
 Puis on lance l'installation des modules nécessaires au fonctionnement du script:
 
 > <span style="color:  #46ee1c  ">pip install -m requirements.txt</span>
