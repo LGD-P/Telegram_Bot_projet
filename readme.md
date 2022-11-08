@@ -56,6 +56,6 @@ Une fois les modules installés on active l'environnement virutel:
 
 Il n'y a plus qu'à exécuter le script:
 
-> <span style="color:  #46ee1c  ">python3 bot.py</span>
+> <span style="color:  #46ee1c  ">python bot.py</span>
 
 Voilà le script tourne vous pouvez interroger votre bot !
