@@ -25,17 +25,3 @@ def send():
 
 RESULTAT_NASA = send()
 
-
-###############################################
-#             SCHEDULE RESULT
-###############################################
-
-
-"""
-schedule.every().day.at("13:03").do(send)
-
-
-while True:
-    schedule.run_pending()
-    time.sleep(1)
-"""
