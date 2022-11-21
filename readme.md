@@ -20,8 +20,6 @@ _Un token nécessaire au fonctionnement du bot. Le mien n'est pas fourni dans le
 
 _Une fois obtenu il vous suffira de créer un fichier ***"Token.text"*** dans le dossier où s'exécute le script, et y coller votre token à l'intérieur._
 
-_Vous pouvez aussi, simplement chercher mon bot ***"..."*** sur télégram, et si mon script est en cours d'éxécution il vous répondra_
-
 ### <span style ="color:  #ee0101  ">Pour obtenir un token:</span>
 
 <span style="color:  #3b43ee  ">1.</span>Ouvrez télégram sur votre os
