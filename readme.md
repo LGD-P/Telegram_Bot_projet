@@ -44,9 +44,13 @@ Avant toute chose on clone le répository git:
 
 > <span style="color:  #46ee1c  ">git clone https://github.com/LGD-P/Telegram_Bot_projet.git</span>
 
+On créer l'environnement virutel:
+
+> <span style="color:  #46ee1c  "python3 -m venv env</span>
+
 Puis on lance l'installation des modules nécessaires au fonctionnement du script:
 
-> <span style="color:  #46ee1c  ">pip install -m requirements.txt</span>
+> <span style="color:  #46ee1c  ">pip install -r requirements.txt</span>
 
 Une fois les modules installés on active l'environnement virutel:
 
