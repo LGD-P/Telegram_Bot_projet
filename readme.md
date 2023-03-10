@@ -46,7 +46,7 @@ Avant toute chose on clone le répository git:
 
 On créer l'environnement virutel:
 
-> <span style="color:  #46ee1c  "python3 -m venv env</span>
+> <span style="color:  #46ee1c  ">python3 -m venv env</span>
 
 Puis on lance l'installation des modules nécessaires au fonctionnement du script:
 
