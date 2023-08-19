@@ -42,22 +42,28 @@ _Pré-requis: se placer depuis le terminal dans le dossier où l'on exécute le 
 
 Avant toute chose on clone le répository git:
 
-> <span style="color:  #46ee1c  ">git clone https://github.com/LGD-P/Telegram_Bot_projet.git</span>
-
+```bash
+git clone https://github.com/LGD-P/Telegram_Bot_projet.git
+```
 On créer l'environnement virutel:
 
-> <span style="color:  #46ee1c  ">python3 -m venv env</span>
+```bash
+python3 -m venv env
+```
 
 Puis on lance l'installation des modules nécessaires au fonctionnement du script:
 
-> <span style="color:  #46ee1c  ">pip install -r requirements.txt</span>
-
+```bash
+pip install -r requirements.txt
+```
 Une fois les modules installés on active l'environnement virutel:
 
-> <span style="color:  #46ee1c  ">source env/Scripts/Activate</span>
-
+```bash
+source env/Scripts/Activate
+```
 Il n'y a plus qu'à exécuter le script:
 
-> <span style="color:  #46ee1c  ">python bot.py</span>
-
+```bash
+python bot.py
+```
 Voilà le script tourne vous pouvez interroger votre bot !
